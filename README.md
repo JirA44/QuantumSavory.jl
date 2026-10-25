@@ -1,3 +1,13 @@
+## Français
+
+Simulateur Julia de matériel et réseaux quantiques, allant de la physique analogique aux dynamiques réseau, avec plusieurs backends. Exemple : modéliser une expérience quantique et simuler son évolution événementielle.
+
+## English
+
+A Julia simulator for quantum hardware and networks, from analog physics to network dynamics, with multiple backends. Example: model a quantum experiment and simulate its event-driven evolution.
+
+---
+
 <img src="https://github.com/QuantumSavory/QuantumSavory.jl/raw/master/docs/src/assets/logo.png" style="max-width:100px">
 
 # QuantumSavory
